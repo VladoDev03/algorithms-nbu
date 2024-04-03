@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1712173238 source:e:\gitrepositories\algorithms-nbu\03_dynamic_programming\01_min_square\main.cpp
+	<iostream>
+	<vector>
+

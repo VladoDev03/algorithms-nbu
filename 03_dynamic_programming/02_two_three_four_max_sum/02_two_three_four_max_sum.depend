@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1712175591 source:e:\gitrepositories\algorithms-nbu\03_dynamic_programming\02_two_three_four_max_sum\main.cpp
+	<iostream>
+	<vector>
+
