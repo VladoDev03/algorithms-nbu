@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1712350431 source:e:\gitrepositories\algorithms-nbu\04_greedy\05_game_of_xor\main.cpp
+	<iostream>
+	<vector>
+
