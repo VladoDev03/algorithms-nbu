@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1712359999 source:e:\gitrepositories\algorithms-nbu\02_sorting\00_sorting_one_to_n\main.cpp
+	<iostream>
+	<algorithm>
+	<random>
+
