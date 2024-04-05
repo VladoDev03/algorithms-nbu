@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1712357616 source:e:\gitrepositories\algorithms-nbu\04_greedy\03_parenting_partner_returns\main.cpp
+	<iostream>
+	<algorithm>
+	<stack>
+
