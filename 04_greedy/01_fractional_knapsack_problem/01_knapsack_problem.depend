@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1712341618 source:e:\gitrepositories\algorithms-nbu\04_greedy\01_fractional_knapsack_problem\main.cpp
+	<iostream>
+	<algorithm>
+

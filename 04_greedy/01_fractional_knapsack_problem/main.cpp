@@ -22,7 +22,7 @@ int main()
         {1, 30, 10, 0},
         {2, 20, 5, 0},
         {3, 40, 15, 0},
-        {4, 36, 8, 0},
+        {4, 36, 8, 0}
     };
 
     cout << fractionalKnapsack(capacity, items, 4) << endl;
