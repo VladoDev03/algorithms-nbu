@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1712362243 source:e:\gitrepositories\algorithms-nbu\03_dynamic_programming\05_square_matrix_zig_zag_largest_sum\main.cpp
+	<iostream>
+	<vector>
+
