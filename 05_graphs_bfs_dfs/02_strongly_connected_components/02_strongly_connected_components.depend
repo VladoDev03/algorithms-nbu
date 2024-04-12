@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1712943866 source:e:\gitrepositories\algorithms-nbu\05_graphs_bfs_dfs\02_strongly_connected_components\main.cpp
+	<iostream>
+	<vector>
+
